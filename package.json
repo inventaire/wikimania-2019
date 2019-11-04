@@ -14,8 +14,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "live-server": "^1.2.0",
-    "marked": "^0.5.2",
+    "live-server": "^1.2.1",
+    "marked": "^0.7.0",
     "node-sass": "^4.10.0"
   }
 }
